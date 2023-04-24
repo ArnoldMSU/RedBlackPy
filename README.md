@@ -1,4 +1,4 @@
-<center> <h1>RedBlackPy </h1> </center>
+<center> <h1>RedBlackPy (Main version) </h1> </center>
 <center> <h4>Fast and scalable data structures for scientific and quantitative research in Python </h4> </center>
 
 <h3>Now available for Python 2.7 and 3.0+ on MacOSX(>=10.7) and Linux (Windows in near future).</h3>
